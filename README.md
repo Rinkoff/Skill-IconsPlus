@@ -32,11 +32,14 @@ A premium, glassmorphic web interface that makes selection a breeze:
 
 ### 4. New Icons
 Added several missing technologies to the library, including:
-- <img src="http://skill-icons-plus.vercel.app/api/icons?i=excel" width="20" height="20" /> **Excel** (High-fidelity mascot version)
-- <img src="http://skill-icons-plus.vercel.app/api/icons?i=csv" width="20" height="20" /> **CSV**
-- <img src="http://skill-icons-plus.vercel.app/api/icons?i=pandas" width="20" height="20" /> **Pandas**
-- <img src="http://skill-icons-plus.vercel.app/api/icons?i=bruno" width="20" height="20" /> **Bruno**
-- <img src="http://skill-icons-plus.vercel.app/api/icons?i=vbscript" width="20" height="20" /> **VBScript**
+
+|      Icon ID       |                         Icon                          |
+| :----------------: | :---------------------------------------------------: |
+|      `excel`       |    <img src="https://skill-icons-plus.vercel.app/api/icons?i=excel&theme=dark&perline=1" width="48"> |
+|      `csv`         |    <img src="https://skill-icons-plus.vercel.app/api/icons?i=csv&theme=dark&perline=1" width="48"> |
+|      `bruno`       |     <img src="https://skill-icons-plus.vercel.app/api/icons?i=bruno&theme=dark&perline=1" width="48"> |
+|      `pandas`      |       <img src="https://skill-icons-plus.vercel.app/api/icons?i=pandas&theme=dark&perline=1" width="48">       |
+|      `vbscript`    |    <img src="https://skill-icons-plus.vercel.app/api/icons?i=vbscript&theme=dark&perline=1" width="48">    |
 
 ## 🛠️ Usage
 
