@@ -13,13 +13,13 @@ interface BuilderSidebarProps {
 export function BuilderSidebar({ selectedIcons, onRemove, onClear, theme }: BuilderSidebarProps) {
   const [copiedType, setCopiedType] = useState<string | null>(null);
 
-  const baseUrl = 'https://skillicons.dev/icons';
+  const baseUrl = '/api/icons';
   const iconQuery = selectedIcons.join(',');
   const themeParam = theme === 'light' ? '&theme=light' : '';
   const fullUrl = `${baseUrl}?i=${iconQuery}${themeParam}`;
 
-  const markdown = `[![My Skills](${fullUrl})](https://skillicons.dev)`;
-  const html = `<a href="https://skillicons.dev">\n  <img src="${fullUrl}" />\n</a>`;
+  const markdown = `[![My Skills](${fullUrl})](https://github.com/Rinkoff/Skill-IconsPlus)`;
+  const html = `<a href="https://github.com/Rinkoff/Skill-IconsPlus">\n  <img src="${fullUrl}" />\n</a>`;
 
   const copyToClipboard = (text: string, type: string) => {
     navigator.clipboard.writeText(text);
