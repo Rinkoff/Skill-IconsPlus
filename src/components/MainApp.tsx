@@ -4,7 +4,7 @@ import React, { useState, useMemo } from 'react';
 import { SearchHeader } from './SearchHeader';
 import { IconCard } from './IconCard';
 import { BuilderSidebar } from './BuilderSidebar';
-import { IconInfo } from '@/lib/icons';
+import { IconInfo } from '../lib/icons';
 
 interface MainAppProps {
   initialIcons: IconInfo[];
