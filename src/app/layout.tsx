@@ -16,7 +16,9 @@ export const metadata: Metadata = {
   title: "SkillIconsPlus",
   description: "Modern, dynamic SVG icons for your GitHub profile and developer portfolio.",
   icons: {
-    icon: "/icon.png",
+    icon: "/icon.png?v=3",
+    shortcut: "/icon.png?v=3",
+    apple: "/icon.png?v=3",
   },
 };
 
