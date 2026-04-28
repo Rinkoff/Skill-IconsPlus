@@ -32,18 +32,18 @@ A premium, glassmorphic web interface that makes selection a breeze:
 
 ### 4. New Icons
 Added several missing technologies to the library, including:
-- <img src="http://localhost:3000/api/icons?i=excel" width="20" height="20" /> **Excel** (High-fidelity mascot version)
-- <img src="http://localhost:3000/api/icons?i=csv" width="20" height="20" /> **CSV**
-- <img src="http://localhost:3000/api/icons?i=pandas" width="20" height="20" /> **Pandas**
-- <img src="http://localhost:3000/api/icons?i=bruno" width="20" height="20" /> **Bruno**
-- <img src="http://localhost:3000/api/icons?i=vbscript" width="20" height="20" /> **VBScript**
+- <img src="http://skill-icons-plus.vercel.app/api/icons?i=excel" width="20" height="20" /> **Excel** (High-fidelity mascot version)
+- <img src="http://skill-icons-plus.vercel.app/api/icons?i=csv" width="20" height="20" /> **CSV**
+- <img src="http://skill-icons-plus.vercel.app/api/icons?i=pandas" width="20" height="20" /> **Pandas**
+- <img src="http://skill-icons-plus.vercel.app/api/icons?i=bruno" width="20" height="20" /> **Bruno**
+- <img src="http://skill-icons-plus.vercel.app/api/icons?i=vbscript" width="20" height="20" /> **VBScript**
 
 ## 🛠️ Usage
 
-Simply use the provided URL format or visit the [Configurator](http://localhost:3000) to generate your own:
+Simply use the provided URL format or visit the [Configurator](https://skill-icons-plus.vercel.app/) to generate your own:
 
 ```markdown
-![My Skills](https://your-domain.com/api/icons?i=js,ts,react,nextjs,tailwindcss,nodejs&theme=dark)
+![My Skills](https://skill-icons-plus.vercel.app/api/icons?i=js,ts,react,nextjs,tailwindcss,nodejs&theme=dark)
 ```
 
 ### Parameters
