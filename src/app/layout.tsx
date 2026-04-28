@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SkillIconsPlus | Dynamic Tech Stack Icons",
+  title: "SkillIconsPlus",
   description: "Modern, dynamic SVG icons for your GitHub profile and developer portfolio.",
   icons: {
     icon: "/icon.png",
